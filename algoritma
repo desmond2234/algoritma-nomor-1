@@ -1,1 +1,9 @@
-	cout<<"bilangan deret = 1,2,3,5,8,16";
+	#include <iostream>
+	
+	/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+using namespace std;
+int main(int argc, char** argv) {
+
+	cout<<"bilangan deret = 1,1,2,3,5,8,16";
+	return 0;
+}
