@@ -4,6 +4,6 @@
 using namespace std;
 int main(int argc, char** argv) {
 
-	cout<<"bilangan deret = 1,1,2,3,5,8,16";
+	cout<<"bilangan deret = 1,1,2,3,5,8,13";
 	return 0;
 }
